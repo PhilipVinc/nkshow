@@ -1,4 +1,4 @@
-netket/_version.py
+nkshow/_version.py
 
 # Compiled source #
 ###################
@@ -12,12 +12,14 @@ netket/_version.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-netket.egg-info/
+*.egg-info/
 pip-wheel-metadata
 .ipynb_checkpoints
 .pytest_cache
 .mypy_cache
 oldest_requirements.txt
+*.debuglog
+*.slog
 
 # Packages #
 ############
